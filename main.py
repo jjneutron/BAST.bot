@@ -1,6 +1,8 @@
 # This code is based on the following example:
 # https://discordpy.readthedocs.io/en/stable/quickstart.html#a-minimal-bot
 
+# game
+
 import discord
 import os
 
